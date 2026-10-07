@@ -4,4 +4,4 @@ My name is Osvaldo Daibert and I currently focus on helping developers build the
 
 I usually share my longer thoughts at https://twitter.com/daibert
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=odaibert&show_icons=true)
+
